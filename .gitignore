@@ -1,0 +1,12 @@
+Blacksmith/[Ll]ibrary/
+Blacksmith/[Tt]emp/
+Blacksmith/[Oo]bj/
+Blacksmith/[Ll]ogs/
+Blacksmith/[Uu]ser[Ss]ettings/
+Blacksmith/[Bb]uild/
+Blacksmith/[Bb]uilds/
+Blacksmith/.vs/
+Blacksmith/*.csproj
+Blacksmith/*.sln
+Blacksmith/*.slnx
+unity-project-create.log
